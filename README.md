@@ -4,7 +4,7 @@ The Puddle project is a simple marketplace where you can put products on sale, s
 
 ## About the project
 
-To Sign Up at Puddle, you need to choose an username, an email and a password to register.
+To Sign Up at Puddle, you need to choose a username, an email and a password to register.
 
 ![SignUp](./images_readme/signup.png)
 
